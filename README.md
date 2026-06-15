@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Jenish Rathod
 
-<!--
-**jenishr821-cs/jenishr821-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Engineer  
+🔐 Cybersecurity Enthusiast  
+🐧 Linux Explorer  
+🚀 Full-Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Cybersecurity
+- Arch Linux
+- Blue Team Security
+- Advanced PHP & MySQL
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Linux
+- Git & GitHub
+
+## 🚀 Projects
+
+- Resume Ranking System
+- Job Matching Portal
+- Gaming Website
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jenishr821-cs
+
+
+---
+
+⭐ "Learning, Building, Improving Every Day."
